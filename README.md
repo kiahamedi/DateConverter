@@ -7,16 +7,20 @@ Converting date from jalali to gregorian and from gregorian to jalali with PyQt5
 
 ![alt text](https://raw.githubusercontent.com/kiahamedi/DateConverter/main/screens/screen1.png)
 
+
 ## JTG
 Jalali to Gregorian:<br>
 ![alt text](https://raw.githubusercontent.com/kiahamedi/DateConverter/main/screens/screen1.png)
+
 
 ## GTJ
 Gregorian to Jalali:<br>
 ![alt text](https://raw.githubusercontent.com/kiahamedi/DateConverter/main/screens/screen2.png)
 
+
 ## More
 ![alt text](https://raw.githubusercontent.com/kiahamedi/DateConverter/main/screens/screen3.png)
+
 for more information visit:<br>
 `http://kiahamedi.ir/DateConverter/`
 
